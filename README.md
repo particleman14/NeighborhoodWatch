@@ -12,7 +12,7 @@ __Pipeline and Features__
 
 We will configure and train the model locally or in google colab.  Then we will convert the model into a format optimized for deployment on the Jetson Nano. 
 
-![Pipeline](https://drive.google.com/file/d/11nekv6mZxOVay6439yvsO6w-0vbtA3gC/view?usp=sharing)
+
 
 
 
